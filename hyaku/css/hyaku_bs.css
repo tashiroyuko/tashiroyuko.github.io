@@ -1,0 +1,132 @@
+*{
+		margin:0;
+		padding:0;
+		margin:0 auto;
+		box-sizing: border-box;
+	}
+
+/*.clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
+}*/
+
+img{display: block;
+}
+
+.top_img{
+width: 100%;
+}
+
+.section1{
+    padding:5% 0;
+}
+
+p {
+font-family: “Times New Roman”, “游明朝”, YuMincho, “ヒラギノ明朝 ProN W3”, “Hiragino Mincho ProN”, “メイリオ”, Meiryo, serif;
+}
+
+.date{
+    width: 85%;
+    height: 85%;
+}
+
+.midashi{
+color: red;
+font-size:40px;
+font-weight:bold;
+font-family: “Times New Roman”, “游明朝”, YuMincho, “ヒラギノ明朝 ProN W3”, “Hiragino Mincho ProN”, “メイリオ”, Meiryo, serif;
+text-align: center;
+}
+
+.toha{
+padding-top: 5%;    
+}
+.setsumei{
+color: #696969;
+font-size:20px;
+line-height: 170%;
+padding-bottom: 5%;
+}
+
+.background{
+    width: 100%;
+    background-color: #dcdcdc;
+    margin: 0 auto;
+    padding:2% 0;
+}
+ 
+.title{
+margin-top: 5%;
+font-size:20px;
+font-weight:bold;
+font-family: “Times New Roman”, “游明朝”, YuMincho, “ヒラギノ明朝 ProN W3”, “Hiragino Mincho ProN”, “メイリオ”, Meiryo, serif;
+text-align: center;
+}
+
+.standard{
+color: #008000;
+}
+
+.elegant{
+color: #ff69b4;
+}
+
+.horror{
+color: #b22222;
+}
+
+hr {
+    border-top: 1px solid #bbb;
+    margin: 0;
+    padding:0;
+}
+
+.fudatext{
+margin:20px auto 10px;
+text-align: center;
+}
+
+ul{
+list-style:none;
+margin:0;
+padding:0;
+}
+
+li{
+list-style:none;
+margin:0;
+padding:5%;
+
+}
+
+li:hover{
+        -webkit-transform: scale(1.1);
+        -moz-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        -o-transform: scale(1.1);
+        transform: scale(1.1);
+}
+
+footer{
+       padding:1% 0;
+}
+
+.jikoshokai{
+       margin-top:3%;
+}
+
+.yakko{
+    margin-bottom:3%;
+}
+
+.twitter{
+margin: auto;
+padding-top: 10%;
+}
+
+
+ 
+
+
+
